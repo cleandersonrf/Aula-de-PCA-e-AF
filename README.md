@@ -1,1 +1,1 @@
-# Aula-de-PCA-e-AF
+# Códigos e dados referentes a aula de Análise de componentes principais e análise fatorial
